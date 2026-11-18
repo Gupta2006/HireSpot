@@ -5,147 +5,137 @@
 \</p>
 
 \<p align="center">
-&#x20; \<img src="[https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react&logoColor=black](https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square\&logo=react\&logoColor=black)" alt="React" />
-&#x20; \<img src="[https://img.shields.io/badge/Node.js-Backend-339933?style=flat-square&logo=nodedotjs&logoColor=white](https://img.shields.io/badge/Node.js-Backend-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)" alt="Node.js" />
-&#x20; \<img src="[https://img.shields.io/badge/Express.js-Framework-000000?style=flat-square&logo=express&logoColor=white](https://img.shields.io/badge/Express.js-Framework-000000?style=flat-square\&logo=express\&logoColor=white)" alt="Express" />
-&#x20; \<img src="[https://img.shields.io/badge/MongoDB-Database-47A248?style=flat-square&logo=mongodb&logoColor=white](https://img.shields.io/badge/MongoDB-Database-47A248?style=flat-square\&logo=mongodb\&logoColor=white)" alt="MongoDB" />
-&#x20; \<img src="[https://img.shields.io/badge/Cloudinary-Cloud_Storage-3448C5?style=flat-square&logo=cloudinary&logoColor=white](https://img.shields.io/badge/Cloudinary-Cloud_Storage-3448C5?style=flat-square\&logo=cloudinary\&logoColor=white)" alt="Cloudinary" />
-&#x20; \<img src="[https://img.shields.io/badge/Tailwind_CSS-Styling-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white](https://img.shields.io/badge/Tailwind_CSS-Styling-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)" alt="Tailwind CSS" />
+&#x20; ![React]\([https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black](https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge\&logo=react\&logoColor=black))
+&#x20; ![Tailwind CSS]\([https://img.shields.io/badge/Tailwind_CSS-Styling-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white](https://img.shields.io/badge/Tailwind_CSS-Styling-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white))
+&#x20; ![Node.js]\([https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=nodedotjs&logoColor=white](https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white))
+&#x20; ![Express]\([https://img.shields.io/badge/Express.js-Framework-000000?style=for-the-badge&logo=express&logoColor=white](https://img.shields.io/badge/Express.js-Framework-000000?style=for-the-badge\&logo=express\&logoColor=white))
+&#x20; ![MongoDB]\([https://img.shields.io/badge/MongoDB-Database-47A248?style=for-the-badge&logo=mongodb&logoColor=white](https://img.shields.io/badge/MongoDB-Database-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white))
+&#x20; ![Cloudinary]\([https://img.shields.io/badge/Cloudinary-Storage-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white](https://img.shields.io/badge/Cloudinary-Storage-3448C5?style=for-the-badge\&logo=cloudinary\&logoColor=white))
 \</p>
 
 ---
 
-## About the Project
+## 🚀 About HireSpot
 
-**HireSpot** is a full-stack Job Portal and Applicant Tracking System (ATS) designed to simplify the recruitment process for both job seekers and employers.
+**HireSpot** is a full-stack Job Portal and Applicant Tracking System (ATS) designed to simplify recruitment for job seekers and employers.
 
-The platform provides a centralized environment where candidates can discover opportunities, submit applications, and track their progress, while recruiters can publish job openings and manage applicants.
+Candidates can explore job opportunities, apply for positions, and track their applications. Recruiters can publish vacancies, review applicants, and manage recruitment activities through a centralized platform.
 
-HireSpot focuses on making the hiring process more organized, accessible, and efficient through role-based functionality and a clean user interface.
-
-## Key Features
+## ✨ Key Features
 
 ### 👤 Candidate
 
-- Create an account and securely log in.
-- Manage personal and professional profile information.
-- Browse available job opportunities.
-- Search and filter jobs based on relevant criteria.
+- User registration and secure login.
+- Personal and professional profile management.
+- Browse, search, and filter job opportunities.
 - View detailed job descriptions.
-- Save interesting job opportunities.
-- Apply for suitable positions.
-- Track submitted applications and their status.
-- Upload and manage profile pictures and resumes.
+- Save interesting jobs.
+- Apply for available positions.
+- Track application status.
+- Upload resumes and profile pictures.
 
 ### 🏢 Recruiter
 
-- Register and access a recruiter account.
-- Create and publish job opportunities.
-- Edit and manage existing job postings.
-- View applicants for published jobs.
+- Recruiter registration and login.
+- Create, publish, edit, and manage job postings.
+- View candidates who applied for jobs.
 - Review candidate profiles and resumes.
-- Manage application stages and candidate progress.
+- Manage application stages.
 - Add notes while reviewing applicants.
 
 ### ⚙️ Administration
 
-- Access administrative functionality.
+- Administrative access and management functionality.
 - Manage platform users and job listings.
-- Monitor platform activity and relevant statistics.
+- Monitor relevant platform activities.
 
-## Technology Stack
+## 🛠️ Technology Stack
 
-| Category          | Technologies                                       |
-| ----------------- | -------------------------------------------------- |
-| Frontend          | React.js, JavaScript, HTML5, CSS3                  |
-| Styling           | Tailwind CSS, CSS                                  |
-| Backend           | Node.js, Express.js                                |
-| Database          | MongoDB                                            |
-| ODM               | Mongoose                                           |
-| Authentication    | JSON Web Token (JWT), bcryptjs                     |
-| File Upload       | Multer                                             |
-| Cloud Storage     | Cloudinary                                         |
-| Routing           | React Router                                       |
-| API Communication | REST APIs                                          |
-| Testing           | Vitest, React Testing Library, Node.js Test Runner |
-| Development Tools | Visual Studio Code, npm, Git, GitHub               |
+| Area           | Technologies                                       |
+| -------------- | -------------------------------------------------- |
+| Frontend       | React.js, JavaScript                               |
+| Styling        | Tailwind CSS, CSS3                                 |
+| Backend        | Node.js, Express.js                                |
+| Database       | MongoDB, Mongoose                                  |
+| Authentication | JWT, bcryptjs                                      |
+| File Upload    | Multer                                             |
+| Cloud Storage  | Cloudinary                                         |
+| API            | REST APIs                                          |
+| Testing        | Vitest, React Testing Library, Node.js Test Runner |
+| Tools          | VS Code, npm, Git, GitHub                          |
 
-## Application Architecture
-
-HireSpot follows a client-server architecture with a structured backend organization.
+## 🏗️ Application Architecture
 
 ```text
-                 HIRESPOT
-                     |
-          +----------+----------+
-          |                     |
-      FRONTEND                BACKEND
-          |                     |
-        React                Node.js
-          |                     |
-    React Router             Express.js
-          |                     |
-    UI Components          REST API Routes
-          |                     |
-    Pages & Context        Controllers
-                                |
-                             Models
-                                |
-                           Mongoose
-                                |
-                            MongoDB
-                                |
-                     Cloudinary Storage
+                    HIRESPOT
+                       |
+             +---------+---------+
+             |                   |
+          FRONTEND             BACKEND
+             |                   |
+           React              Node.js
+             |                   |
+       React Router           Express.js
+             |                   |
+       UI Components         API Routes
+             |                   |
+       Pages & Context       Controllers
+                                 |
+                               Models
+                                 |
+                              Mongoose
+                                 |
+                              MongoDB
+                                 |
+                         Cloudinary Storage
 ```
 
-### How the application works
+### Request Flow
 
-1. The user interacts with the React frontend.
-2. The frontend sends requests to the Express backend.
-3. Backend routes direct requests to the appropriate controllers.
-4. Controllers process business logic and interact with database models.
-5. Mongoose communicates with MongoDB to manage application data.
-6. Cloudinary handles supported file storage operations.
-7. The backend returns responses to the frontend.
+1. User interacts with the React frontend.
+2. Frontend sends requests to backend REST APIs.
+3. Express routes direct requests to controllers.
+4. Controllers handle application logic.
+5. Mongoose communicates with MongoDB.
+6. Cloudinary stores supported uploaded files.
+7. Backend sends the response to the frontend.
 
-## Authentication & Security
-
-HireSpot uses authentication and authorization mechanisms to protect application resources.
+## 🔐 Authentication & Security
 
 - JWT-based authentication.
 - Password hashing using bcryptjs.
 - Role-based access control.
-- Protected routes for authenticated users.
-- Middleware-based request authorization.
-- Environment variables for sensitive configuration.
-- Helmet and CORS for additional HTTP security configuration.
+- Protected frontend and backend routes.
+- Middleware-based authorization.
+- Environment variables for sensitive credentials.
+- HTTP security configuration using supported middleware.
 
-## File Storage
+## ☁️ File Storage
 
-Cloudinary is used for cloud-based storage of supported uploaded files.
+Cloudinary provides cloud storage for supported user uploads:
 
-The application uses it for:
+- Candidate resumes.
+- User profile pictures.
 
-- Candidate resume uploads.
-- User profile picture uploads.
+Multer handles incoming file uploads before backend processing.
 
-Multer handles incoming file uploads before they are processed by the backend.
+## 🔗 API Structure
 
-## API Structure
+The backend organizes REST API functionality into separate route modules.
 
-The backend exposes REST API endpoints organized by functionality.
+| API Prefix          | Function                    |
+| ------------------- | --------------------------- |
+| `/api/auth`         | Authentication              |
+| `/api/profile`      | Candidate profiles          |
+| `/api/jobs`         | Job browsing and management |
+| `/api/applications` | Job applications            |
+| `/api/admin`        | Administration              |
+| `/api/uploads`      | File uploads                |
+| `/api/files`        | File operations             |
 
-| API Prefix          | Purpose                               |
-| ------------------- | ------------------------------------- |
-| `/api/auth`         | Registration and authentication       |
-| `/api/profile`      | Candidate profile management          |
-| `/api/jobs`         | Job creation, browsing and management |
-| `/api/applications` | Job application management            |
-| `/api/admin`        | Administrative operations             |
-| `/api/uploads`      | File upload operations                |
-| `/api/files`        | File-related operations               |
+*Confirm the actual mounted routes in the backend before relying on these prefixes.*
 
-## Project Structure
+## 📁 Project Structure
 
 ```text
 HireSpot/
@@ -170,7 +160,6 @@ HireSpot/
 ├── server/
 │   ├── config/
 │   ├── controllers/
-│   ├── data/
 │   ├── middleware/
 │   ├── models/
 │   ├── routes/
@@ -185,19 +174,12 @@ HireSpot/
 └── HireSpot.postman_collection.json
 ```
 
-*The structure above presents the main application areas; individual files may vary as the project evolves.*
-
-## Getting Started
-
-Follow these steps to run HireSpot locally.
+## 💻 Getting Started
 
 ### Prerequisites
 
-Install the following:
-
-- Node.js
-- npm
-- MongoDB or a MongoDB Atlas connection
+- Node.js and npm
+- MongoDB or MongoDB Atlas
 - Cloudinary account
 - Git
 
@@ -205,9 +187,6 @@ Install the following:
 
 ```bash
 git clone https://github.com/Gupta2006/HireSpot.git
-```
-
-```bash
 cd HireSpot
 ```
 
@@ -218,32 +197,28 @@ cd server
 npm install
 ```
 
-### 3. Configure backend environment variables
+### 3. Configure environment variables
 
 Create a `.env` file inside the `server` directory.
-
-Add the required configuration:
 
 ```env
 PORT=5000
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
-CLOUDINARY_CLOUD_NAME=your_cloudinary_cloud_name
-CLOUDINARY_API_KEY=your_cloudinary_api_key
-CLOUDINARY_API_SECRET=your_cloudinary_api_secret
+CLOUDINARY_CLOUD_NAME=your_cloud_name
+CLOUDINARY_API_KEY=your_api_key
+CLOUDINARY_API_SECRET=your_api_secret
 ```
 
-Replace the placeholder values with your own credentials. Never upload your actual `.env` file or expose secret keys on GitHub.
+Use your actual project configuration names and credentials. Never commit `.env` to GitHub.
 
 ### 4. Start the backend
 
-Run the development script configured in `server/package.json`.
+Use the development command defined in `server/package.json`, for example:
 
 ```bash
 npm run dev
 ```
-
-If the project uses a different start script, use the corresponding command from `server/package.json`.
 
 ### 5. Install frontend dependencies
 
@@ -260,49 +235,34 @@ npm install
 npm run dev
 ```
 
-Open the local URL displayed in your terminal to access HireSpot.
+Open the local URL shown in the terminal.
 
-## Testing
+## 🧪 Testing
 
 The project includes testing support for frontend components and backend functionality.
-
-Testing technologies include:
 
 - Vitest
 - React Testing Library
 - Node.js Test Runner
 
-Run the test scripts configured in the respective `client/package.json` and `server/package.json` files.
+Run the relevant test scripts defined in the respective package files.
 
-## API Testing
+## 📬 API Testing with Postman
 
 The repository includes a Postman collection:
 
 `HireSpot.postman_collection.json`
 
-Import this collection into Postman to organize and test the available API endpoints.
+Import it into Postman to test and organize the available API requests.
 
-## Security & Repository Guidelines
+## 🔒 Repository Guidelines
 
-- Keep credentials and secrets inside environment files.
-- Do not commit `.env` files.
-- Do not upload `node_modules` or generated build folders.
-- Use protected branches and meaningful commit messages.
-- Validate requests and protect restricted routes.
+- Never commit `.env` files or private credentials.
+- Exclude `node_modules` and generated build folders.
+- Keep commits focused and descriptive.
+- Validate requests and protect restricted resources.
 
-## Future Improvements
-
-Potential areas for further development include:
-
-- Advanced job recommendation functionality.
-- Improved application analytics.
-- Enhanced candidate-job matching.
-- Additional recruitment reporting.
-- Further automated testing.
-
-## Contributors
-
-HireSpot is developed as a collaborative full-stack project.
+## 👥 Contributors
 
 | Contributor      | Primary Responsibility              |
 | ---------------- | ----------------------------------- |
@@ -311,12 +271,12 @@ HireSpot is developed as a collaborative full-stack project.
 | Parampreet Singh | Candidate & Applications            |
 | Sandeep Kumar    | Recruiter, Administration & Uploads |
 
-## Project Repository
+## 🔗 Project Links
 
-**GitHub:** [Gupta2006/HireSpot](https://github.com/Gupta2006/HireSpot)
+**GitHub Repository:** [HireSpot](https://github.com/Gupta2006/HireSpot)
 
 ---
 
 \<p align="center">   \<strong>HireSpot — Find Opportunities. Build Careers. Simplify Hiring.\</strong> \</p>
 
-\<p align="center">   Made with dedication by the HireSpot Team. \</p>
+\<p align="center">   Made with dedication by the HireSpot Team ❤️ \</p>
