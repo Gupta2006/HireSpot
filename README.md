@@ -1,6 +1,5 @@
 
 <div align="center">
-
 # HireSpot
 ### Find the Right Opportunity. Make the Next Move.
 
